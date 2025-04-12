@@ -14,7 +14,7 @@ The dataset challenges, including an uneven distribution of all three labels, wh
 
 Facial attribute prediction has applications in various fields:  
 
-- Market Research & Analytics – Providing demographic insights in retail environments to help businesses refine marketing. This means showing targeted advertisements.
+- Market Research & Analytics – Estimating demographics in retail to enable targeted advertising.
 - Human-Computer Interaction – Adjusting user interfaces dynamically based for personalized experiences.  
 - Healthcare & Demographics – Estimating missing demographic data for epidemiological studies or public health research.
 
