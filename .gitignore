@@ -1,0 +1,11 @@
+UTKFace/
+age_and_gender.code-workspace
+age_gender_venv/
+false_duplicate.png
+UTKFace_cleaned_labels.csv
+UTKFace_cleaned/
+UTKFace_cleaned.zip
+fine_tuning_faces.ipynb
+*.pth
+*.pt
+Src/__pycache__/
