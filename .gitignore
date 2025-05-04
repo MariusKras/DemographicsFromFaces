@@ -8,4 +8,4 @@ UTKFace_cleaned.zip
 fine_tuning_faces.ipynb
 *.pth
 *.pt
-Src/__pycache__/
+src/__pycache__/

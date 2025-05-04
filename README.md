@@ -1,6 +1,6 @@
 # Demographic Prediction from Facial Images
 
-![header](Pictures/header.png)
+![header](pictures/header.png)
 
 ## Dataset
 
@@ -47,7 +47,7 @@ LIME visualization shows the parts of the image that influenced the model's deci
 <br>
 
 <p align="center">
-  <img src="Pictures/LIME.png" alt="LIME">
+  <img src="pictures/LIME.png" alt="LIME">
 </p>
 
 - The model focuses on biologically relevant features such as the jawline, eyebrows, and lips.  
